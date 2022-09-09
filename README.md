@@ -1,0 +1,2 @@
+# point-counter
+Counts points
