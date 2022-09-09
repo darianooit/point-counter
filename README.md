@@ -1,2 +1,0 @@
-# point-counter
-Counts points
